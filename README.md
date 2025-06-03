@@ -8,10 +8,13 @@ BlueSCSI case modelled after an Apple 800k external floppy drive.
 
 *The magnets used in this project are 5mm in diameter and 2mm tall.*
 
-![Model](https://raw.githubusercontent.com/mcbeav/model-blue.scsi.apple.800k/refs/heads/main/BlueSCSI.PNG)
+![Model (Top)](https://raw.githubusercontent.com/mcbeav/model-floppyemu.apple.800k/refs/heads/main/Top.PNG)
+
+
+![Model (Bottom)](https://raw.githubusercontent.com/mcbeav/model-floppyemu.apple.800k/refs/heads/main/Bottom.PNG)
 
 
 ![BlueSCSI Stacked On Top Of FloppyEMU](https://raw.githubusercontent.com/mcbeav/model-blue.scsi.apple.800k/refs/heads/main/BlueSCSI-FloppyEMU.jpeg)
 
 
-![Back Of BlueSCSI](https://raw.githubusercontent.com/mcbeav/model-blue.scsi.apple.800k/refs/heads/main/Back.jpg)
+![Back Of FloppyEMU](https://raw.githubusercontent.com/mcbeav/model-blue.scsi.apple.800k/refs/heads/main/Back.jpg)
