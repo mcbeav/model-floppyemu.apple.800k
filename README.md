@@ -1,12 +1,12 @@
-# BlueSCSI Case Model
+# FloppyEMU Case Model
 
-BlueSCSI case modelled after an Apple 800k external floppy drive.
+This is a FloppyEMU case modelled after the Apple 800k External Floppy Disk Drive.
 
-*The bottom plate is poorly designed. The design was meant to include the SCSI cable connector inside of the case, so that the connector would not be visible from outside of the case. The model should be simple enough to modify.*
+There are 2 versions of the top case. I wired a custom cable for mine, so I could plug in the FloppyEMU using an Apple DB19 cable. I wanted it to look like a finished product, but this is not practical for most people. The version you'll likely want is the Top (IDC20 Ribbon Connector).
 
-*The apple cutout is the correct size to fit an apple from a powerbook / powerbook duo.*
+You'll need a microSD card extension (I got mine from Amazon for cheap)
 
-*The magnets used in this project are 5mm in diameter and 2mm tall.*
+I used magnets 5mm in diameter and 2mm tall.
 
 ![Model (Top)](https://raw.githubusercontent.com/mcbeav/model-floppyemu.apple.800k/refs/heads/main/Top.PNG)
 
