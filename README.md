@@ -16,7 +16,7 @@ I used magnets 5mm in diameter and 2mm tall.
 ![Model (Bottom)](https://raw.githubusercontent.com/mcbeav/model-floppyemu.apple.800k/refs/heads/main/Photos/Bottom.PNG)
 
 
-![BlueSCSI Stacked On Top Of FloppyEMU](https://raw.githubusercontent.com/mcbeav/model-blue.scsi.apple.800k/refs/heads/main/Photos/BlueSCSI-FloppyEMU.jpeg)
+![BlueSCSI Stacked On Top Of FloppyEMU](https://raw.githubusercontent.com/mcbeav/model-floppyemu.apple.800k/refs/heads/main/Photos/BlueSCSI-FloppyEMU.jpeg)
 
 
-![Back Of FloppyEMU](https://raw.githubusercontent.com/mcbeav/model-blue.scsi.apple.800k/refs/heads/main/Photos/Back.jpg)
+![Back Of FloppyEMU](https://raw.githubusercontent.com/mcbeav/model-floppyemu.apple.800k/refs/heads/main/Photos/Back.jpg)
