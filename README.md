@@ -2,7 +2,7 @@
 
 This is a FloppyEMU case modelled after the Apple 800k External Floppy Disk Drive.
 
-There are 2 versions of the top case. I wired a custom cable for mine, so I could plug in the FloppyEMU using an Apple DB19 cable. I wanted it to look like a finished product, but this is not practical for most people. The version you'll likely want is the Top (IDC20 Ribbon Connector).
+I've modified the model to fit the standard IDC20 ribbon cable that comes with the FloppyEMU. My original model was designed for an Apple Disk Drive DB19 floppy cable that I rewired, but I don't think that would be very useful for everyone else, so the model has been modified, but the step file is there for any modifications that you want to make.
 
 You'll need a microSD card extension (I got mine from Amazon for cheap)
 
